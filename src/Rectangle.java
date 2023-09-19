@@ -31,7 +31,7 @@ public class Rectangle {    //mall av ett object
     }
 
     public double calculatePerimeter() {
-        double perimeter = (width*2) + (height*2);
+        double perimeter = (width * 2) + (height * 2);
         return perimeter;
     }
 
